@@ -11,7 +11,7 @@ files:
       length: 6
       offset: 22
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: iBBRH3yyNCy0qb5WuTm5bA==
   encrypted_text: qOHZ02/7OUcQL++aiVVaf2FiKbkgiWdezAA8EWlwXnM=
